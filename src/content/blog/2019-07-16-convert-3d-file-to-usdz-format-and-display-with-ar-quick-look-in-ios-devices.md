@@ -3,7 +3,7 @@ title: Convert 3D file to usdz format and display with AR Quick Look in iOS devi
 date: 2019-07-16T00:35:22.761Z
 tags:
   - 3D
-coverImage: /images/uploads/img_2284.jpg
+coverImage: /images/img_2284.jpg
 description: 'In short, just run `xcrun usdz_converter 3D.obj 3D.usdz`'
 ---
 ## Prerequisites:

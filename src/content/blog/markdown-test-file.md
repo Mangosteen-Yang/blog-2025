@@ -4,7 +4,7 @@ date: 2019-02-06T00:00:00.000Z
 tags:
   - Markdown
   - Test files
-coverImage: /images/uploads/669887-3-.jpg
+coverImage: /images/669887-3-.jpg
 description: >-
   Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
   Readability, however, is emphasized above all else. A Markdown-formatted
